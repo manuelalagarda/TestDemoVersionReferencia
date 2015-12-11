@@ -12,8 +12,8 @@ namespace TestDemo
         public void Ejecutar()
         {
             ActualizarPreciosDeLasLineasDeDetalle();
-            EliminarUltimaLineaDeDetalle();
-            AnyadirNuevaLineaDeDetalle();
+            //EliminarUltimaLineaDeDetalle();
+            //AnyadirNuevaLineaDeDetalle();
             GuardarCambios();            
         }
 
