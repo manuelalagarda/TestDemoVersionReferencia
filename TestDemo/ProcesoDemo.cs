@@ -13,7 +13,7 @@ namespace TestDemo
         {
             ActualizarPreciosDeLasLineasDeDetalle();
             //EliminarUltimaLineaDeDetalle();
-            AnyadirNuevaLineaDeDetalle();
+            //AnyadirNuevaLineaDeDetalle();
             GuardarCambios();            
         }
 
