@@ -4,6 +4,8 @@ namespace TestDemo
     using System.Data.Entity;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Linq;
+	
+	// PRUEBA
 
     public partial class AdventureWorks2008R2 : DbContext
     {
